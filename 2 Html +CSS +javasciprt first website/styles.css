@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>How to make a website (HTML, CSS, JavaScript)</title>
+    <style>
+        h1 {
+            font-size: 72px;
+            font-family: 'Dreaming Outloud Pro', sans-serif; 
+            text-align: center;
+        }
+        h2 {
+            font-size: 40px;
+            text-align: center;
+        }
+        h3 {
+            font-size: 30px;
+            text-align: center;
+        }
+        body {
+            border: 5px;
+            margin: 20px;
+            padding: 20x;
+            background-color: #EED7B0;
+        }
+    </style>
+</head>
